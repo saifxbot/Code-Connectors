@@ -1,6 +1,6 @@
 # ML & AI — Course Introduction (Spring 2026)
 
-## Your Team
+## Team Members
 We have 3 members:
 - Saif Reza
 - Nirzor Deb
